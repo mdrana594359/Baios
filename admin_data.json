@@ -11,5 +11,13 @@
             "role": "reseller"
         }
     ],
-    "hwids": []
+    "hwids": [
+        {
+            "reseller": "rana",
+            "username": "ff",
+            "displayUsername": "ff",
+            "hwid": "fsdfsdfsfsdfsdf",
+            "expiryDate": "9999-09-09"
+        }
+    ]
 }
