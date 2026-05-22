@@ -4,6 +4,11 @@
             "username": "admin",
             "password": "admin123",
             "role": "admin"
+        },
+        {
+            "username": "rana",
+            "password": "rana",
+            "role": "reseller"
         }
     ],
     "hwids": []
