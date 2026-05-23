@@ -9,6 +9,11 @@
             "username": "rana",
             "password": "rana",
             "role": "reseller"
+        },
+        {
+            "username": "pranto",
+            "password": "1",
+            "role": "reseller"
         }
     ],
     "hwids": [
