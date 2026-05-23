@@ -47,6 +47,12 @@
             "username": "tanzim",
             "hwid": "449b261a-4a86-4fa8-abd0-615d6f285651",
             "expiryDate": "2028-03-04"
+        },
+        {
+            "reseller": "p2",
+            "username": "uikhg",
+            "hwid": "c09aea0c-d4ee-4454-8622-c49ac7307686",
+            "expiryDate": "2028-02-03"
         }
     ]
 }
