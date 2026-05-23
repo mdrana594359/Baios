@@ -13,6 +13,12 @@
             "displayUsername": "rana",
             "hwid": "5eb0d70d-ffc2-45c8-8b88-bf5d66836405",
             "expiryDate": "9999-09-09"
+        },
+        {
+            "reseller": "p2",
+            "username": "pranto",
+            "hwid": "af8a04f3-13ee-4663-a579-6d8621d486c9",
+            "expiryDate": "9999-09-09"
         }
     ]
 }
