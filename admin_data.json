@@ -41,6 +41,12 @@
             "username": "pranto",
             "hwid": "af8a04f3-13ee-4663-a579-6d8621d486c9",
             "expiryDate": "9999-09-09"
+        },
+        {
+            "reseller": "p2",
+            "username": "tanzim",
+            "hwid": "449b261a-4a86-4fa8-abd0-615d6f285651",
+            "expiryDate": "2028-03-04"
         }
     ]
 }
