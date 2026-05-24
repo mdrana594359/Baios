@@ -31,6 +31,12 @@
             "username": "rohan",
             "hwid": "3a13d59d-0635-42ef-85be-a6f84a8bd7c6",
             "expiryDate": "2029-02-05"
+        },
+        {
+            "reseller": "p2",
+            "username": "sadik2",
+            "hwid": "1b319037-d0a2-4743-a3f0-ad9463a007c7",
+            "expiryDate": "2029-02-08"
         }
     ]
 }
