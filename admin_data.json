@@ -44,12 +44,6 @@
         },
         {
             "reseller": "p2",
-            "username": "rohan",
-            "hwid": "3a13d59d-0635-42ef-85be-a6f84a8bd7c6",
-            "expiryDate": "2029-02-05"
-        },
-        {
-            "reseller": "p2",
             "username": "sadik2",
             "hwid": "1b319037-d0a2-4743-a3f0-ad9463a007c7",
             "expiryDate": "2029-02-08"
@@ -65,18 +59,6 @@
             "username": "eysin",
             "hwid": "5188d066-8664-4307-809f-fab1e29788b2",
             "expiryDate": "2029-02-06"
-        },
-        {
-            "reseller": "p2",
-            "username": "faim",
-            "hwid": "0e955498-26db-4871-8f43-fb5c52dea06c",
-            "expiryDate": "2028-02-08"
-        },
-        {
-            "reseller": "p2",
-            "username": "raihim",
-            "hwid": "3be37147-045a-46af-a1ef-258b9979c1e1",
-            "expiryDate": "2028-03-03"
         },
         {
             "reseller": "p2",
